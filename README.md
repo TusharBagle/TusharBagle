@@ -153,4 +153,4 @@ Data cleaning, visualization, and automation using Python.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,20,24,30&section=footer"/>
