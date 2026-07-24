@@ -107,12 +107,12 @@ Data cleaning, visualization, and automation using Python.
 
 ## 🏆 Certifications
 
-| Certificate             | Issued By   | View                              |
-|-------------------------|-------------|-----------------------------------|
-| 📊 Microsoft Power BI   | Microsoft  | [View Certificate]([YOUR_LINK_HERE](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20Power%20BI%20Certificate.pdf)) |
-| 🐍 Python Programming   | Coursera   | [View Certificate]([YOUR_LINK_HERE](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Tushar_Bagle_HR_Quiz_Certificate.pdf)) |
-| 🗄 SQL for Data Analysis | HackerRank | [View Certificate](YOUR_LINK_HERE) |
-| 📈 Microsoft Excel      | Udemy      | [View Certificate]([YOUR_LINK_HERE](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20365%20Excel%20Essential%20Certificate.pdf)) |
+| Certificate | Issued By | Credential |
+|-------------|-----------|------------|
+| 📊 Microsoft Power BI | Microsoft | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20Power%20BI%20Certificate.pdf) |
+| 🐍 Python Programming | Coursera | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Tushar_Bagle_HR_Quiz_Certificate.pdf) |
+| 🗄 SQL for Data Analysis | HackerRank | ⏳ Coming Soon |
+| 📈 Microsoft Excel | Udemy | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20365%20Excel%20Essential%20Certificate.pdf) |
 
 
 ## 📄 Resume & Contact
