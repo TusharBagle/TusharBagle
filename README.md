@@ -56,7 +56,7 @@ Building dashboards that turn data into business insights.
 ### ✈️ Airline Dashboard
 Interactive Power BI dashboard for airline performance analysis.
 
-🔗 **Repository:** https://github.com/TusharBagle/Airline-Dashboard-Power-BI
+🔗 **Repository:** [https://github.com/TusharBagle/Airline-Dashboard-Power-BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)
 
 </td>
 
@@ -65,7 +65,7 @@ Interactive Power BI dashboard for airline performance analysis.
 ### 🏥 Healthcare Dashboard
 Business Intelligence dashboard for hospital and patient analytics.
 
-🔗 **Repository:** https://github.com/TusharBagle/Healthcare-Dashboard-Power-BI
+🔗 **Repository:** [https://github.com/TusharBagle/Healthcare-Dashboard-Power-BI](https://github.com/TusharBagle/Healthcare-Dashboard-PR.2-Power-BI-)
 
 </td>
 </tr>
@@ -109,10 +109,10 @@ Data cleaning, visualization, and automation using Python.
 
 | Certificate             | Issued By   | View                              |
 |-------------------------|-------------|-----------------------------------|
-| 📊 Microsoft Power BI   | Microsoft  | [View Certificate](YOUR_LINK_HERE) |
-| 🐍 Python Programming   | Coursera   | [View Certificate](YOUR_LINK_HERE) |
+| 📊 Microsoft Power BI   | Microsoft  | [View Certificate]([YOUR_LINK_HERE](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20Power%20BI%20Certificate.pdf)) |
+| 🐍 Python Programming   | Coursera   | [View Certificate]([YOUR_LINK_HERE](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Tushar_Bagle_HR_Quiz_Certificate.pdf)) |
 | 🗄 SQL for Data Analysis | HackerRank | [View Certificate](YOUR_LINK_HERE) |
-| 📈 Microsoft Excel      | Udemy      | [View Certificate](YOUR_LINK_HERE) |
+| 📈 Microsoft Excel      | Udemy      | [View Certificate]([YOUR_LINK_HERE](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20365%20Excel%20Essential%20Certificate.pdf)) |
 
 
 ## 📄 Resume & Contact
