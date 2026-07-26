@@ -17,7 +17,7 @@ Building dashboards that turn data into business insights.
 
 - 🎓 Passionate Data Analyst from India
 - 📊 Specialized in Power BI Dashboard Development
-- 🗄️ Skilled in SQL, Excel, and Python
+- 🗄️ Skilled in SQL , Excel , Python and Power BI
 - 🌱 Currently learning Advanced Data Analytics
 - 💡 Interested in Business Intelligence & Data Visualization
 - 🎯 Goal: Build impactful dashboards that solve real business problems
@@ -47,6 +47,17 @@ Building dashboards that turn data into business insights.
 </p>
 
 
+## 🚀 My GitHub Journey
+
+<h3 align="center">
+  <span style="color:white;">Tushar Bagle's Contribution Graph</span>
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&hide_title=true"/>
+</p>
+
+
 ## 🚀 Featured Projects
 
 <table>
@@ -56,7 +67,7 @@ Building dashboards that turn data into business insights.
 ### ✈️ Airline Dashboard
 Interactive Power BI dashboard for airline performance analysis.
 
-🔗 **Repository:** [https://github.com/TusharBagle/Airline-Dashboard-Power-BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)
+🔗 **Repository:** [[https://github.com/TusharBagle/Airline-Dashboard-Power-BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)]
 
 </td>
 
@@ -76,7 +87,7 @@ Business Intelligence dashboard for hospital and patient analytics.
 ### 📊 Sales Dashboard
 Sales performance analysis with KPIs and trends.
 
-🔗 **Repository:** https://github.com/TusharBagle/Sales-Dashboard
+🔗 **Repository:** [https://github.com/TusharBagle/Sales-Dashboard](https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-)
 
 </td>
 
@@ -90,19 +101,6 @@ Data cleaning, visualization, and automation using Python.
 </td>
 </tr>
 </table>
-
-
-## 🖼️ Dashboard Gallery
-
-<p align="center">
-  <img src="images/airline-dashboard.png" width="45%" alt="Airline Dashboard"/>
-  <img src="images/healthcare-dashboard.png" width="45%" alt="Healthcare Dashboard"/>
-</p>
-
-<!-- <p align="center">
-  <img src="images/sales-dashboard.png" width="45%" alt="Sales Dashboard"/>
-  <img src="images/hr-dashboard.png" width="45%" alt="HR Dashboard"/>
-</p> -->
 
 
 ## 🏆 Certifications
