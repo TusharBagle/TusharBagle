@@ -45,7 +45,7 @@ Building dashboards that turn data into business insights.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharBagle&theme=github_dark"/>
+  <img width="100%" src="assets/profile-details.svg" alt="Profile Details">
 </p>
 
 <br>
