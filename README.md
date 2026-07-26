@@ -38,12 +38,20 @@ Building dashboards that turn data into business insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=TusharBagle&theme=tokyonight&hide_border=true"/>
 </p>
 
+
+## 📈 GitHub Contribution
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TusharBagle&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharBagle&theme=github_dark"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=github-compact&bg_color=0D1117&hide_border=true&area=true"/>
 </p>
 
 
@@ -56,7 +64,7 @@ Building dashboards that turn data into business insights.
 ### ✈️ Airline Dashboard
 Interactive Power BI dashboard for airline performance analysis.
 
-🔗 **Repository:** [https://github.com/TusharBagle/Airline-Dashboard-Power-BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)
+🔗 **Repository:** [Airline Dashboard – Power BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)
 
 </td>
 
@@ -102,32 +110,28 @@ Data cleaning, visualization, and automation using Python.
 | 📈 Microsoft Excel | Udemy | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20365%20Excel%20Essential%20Certificate.pdf) |
 
 
-## 📄 Resume & Contact
+## 🌐 Connect with Me
 
 <p align="center">
 
-<a href="Tushar_RESUME_LINK">
-  <img src="https://github.com/TusharBagle/TusharBagle/blob/main/assets/Tushar_Bagle_Data_Analyst_Resume.pdf"/>
+<a href="https://raw.githubusercontent.com/TusharBagle/TusharBagle/main/assets/Tushar_Bagle_Data_Analyst_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/tushar-bagle-07a8913b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:tusharbagle2007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="tusharbagle2007@gmail.com">
-  <img src="📧 **Email:** [tusharbagle2007@gmail.com](mailto:tusharbagle2007@gmail.com)"/>
+<a href="https://www.linkedin.com/in/tushar-bagle-07a8913b2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/TusharBagle">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/TusharBagle" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- <a href="https://www.hackerrank.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a> -->
-
-<a href="https://www.kaggle.com/tusharbagle">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<a href="https://www.kaggle.com/tusharbagle" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 </p>
