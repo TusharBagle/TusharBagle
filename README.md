@@ -47,13 +47,6 @@ Building dashboards that turn data into business insights.
 </p>
 
 
-## 🚀 My GitHub Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TusharBagle/TusharBagle/main/assets/contribution-graph.svg" width="100%">
-</p>
-
-
 ## 🚀 Featured Projects
 
 <table>
