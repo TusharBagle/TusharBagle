@@ -42,7 +42,7 @@ Building dashboards that turn data into business insights.
 </p>
 
 
-## 📈 GitHub Contribution
+## 📈 Contribution Activity
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharBagle&theme=github_dark"/>
@@ -51,7 +51,7 @@ Building dashboards that turn data into business insights.
 <br>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=github-compact&bg_color=0D1117&hide_border=true&area=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 
@@ -115,27 +115,26 @@ Data cleaning, visualization, and automation using Python.
 <p align="center">
 
 <a href="https://raw.githubusercontent.com/TusharBagle/TusharBagle/main/assets/Tushar_Bagle_Data_Analyst_Resume.pdf">
-  <img src="https://img.shields.io/badge/📄%20Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/📄%20Resume-0078D4?style=for-the-badge">
 </a>
 
 <a href="mailto:tusharbagle2007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/tushar-bagle-07a8913b2/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/tushar-bagle-07a8913b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/TusharBagle" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/TusharBagle">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.kaggle.com/tusharbagle" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<a href="https://www.kaggle.com/tusharbagle">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 
 </p>
-
 
 🐍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐍
 
