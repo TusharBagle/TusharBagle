@@ -49,12 +49,8 @@ Building dashboards that turn data into business insights.
 
 ## 🚀 My GitHub Journey
 
-<h3 align="center">
-  <span style="color:white;">Tushar Bagle's Contribution Graph</span>
-</h3>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&hide_title=true"/>
+  <img src="https://raw.githubusercontent.com/TusharBagle/TusharBagle/main/assets/contribution-graph.svg" width="100%">
 </p>
 
 
@@ -67,7 +63,7 @@ Building dashboards that turn data into business insights.
 ### ✈️ Airline Dashboard
 Interactive Power BI dashboard for airline performance analysis.
 
-🔗 **Repository:** [[https://github.com/TusharBagle/Airline-Dashboard-Power-BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)]
+🔗 **Repository:** [https://github.com/TusharBagle/Airline-Dashboard-Power-BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)
 
 </td>
 
@@ -109,7 +105,7 @@ Data cleaning, visualization, and automation using Python.
 |-------------|-----------|------------|
 | 📊 Microsoft Power BI | Microsoft | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20Power%20BI%20Certificate.pdf) |
 | 🐍 Python Programming | Coursera | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Tushar_Bagle_HR_Quiz_Certificate.pdf) |
-| 🗄 SQL for Data Analysis | HackerRank | ⏳ Coming Soon |
+| 🗄 SQL for Data Analysis | HackerRank | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/sql_basic%20certificate.pdf) |
 | 📈 Microsoft Excel | Udemy | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20365%20Excel%20Essential%20Certificate.pdf) |
 
 
@@ -118,7 +114,7 @@ Data cleaning, visualization, and automation using Python.
 <p align="center">
 
 <a href="Tushar_RESUME_LINK">
-  <img src="https://img.shields.io/badge/📄%20Resume-Download-blue?style=for-the-badge"/>
+  <img src="https://github.com/TusharBagle/TusharBagle/blob/main/assets/Tushar_Bagle_Data_Analyst_Resume.pdf"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tushar-bagle-07a8913b2/">
@@ -126,7 +122,7 @@ Data cleaning, visualization, and automation using Python.
 </a>
 
 <a href="tusharbagle2007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="📧 **Email:** [tusharbagle2007@gmail.com](mailto:tusharbagle2007@gmail.com)"/>
 </a>
 
 <a href="https://github.com/TusharBagle">
