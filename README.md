@@ -38,17 +38,17 @@ Building dashboards that turn data into business insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+</br>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=TusharBagle&theme=tokyonight&hide_border=true"/>
 </p>
 
 
 ## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-<br>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=tokyo-night&hide_border=true&area=true"/>
@@ -136,11 +136,9 @@ Data cleaning, visualization, and automation using Python.
 
 </p>
 
-🐍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐍
-
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+<img src="https://raw.githubusercontent.com/TusharBagle/TusharBagle/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,20,24,30&section=footer"/>
