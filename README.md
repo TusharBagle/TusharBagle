@@ -45,7 +45,7 @@ Building dashboards that turn data into business insights.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharBagle&theme=tokyonight"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharBagle&theme=github_dark"/>
 </p>
 
 <br>
@@ -64,7 +64,7 @@ Building dashboards that turn data into business insights.
 ### ✈️ Airline Dashboard
 Interactive Power BI dashboard for airline performance analysis.
 
-🔗 **Repository:** [[Airline Dashboard – Power BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)](https://github.com/TusharBagle/Airline-Dashboard-Power-BI-)
+🔗 **Repository:** [Airline Dashboard – Power BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)
 
 </td>
 
