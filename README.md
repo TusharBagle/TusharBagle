@@ -64,7 +64,7 @@ Building dashboards that turn data into business insights.
 ### ✈️ Airline Dashboard
 Interactive Power BI dashboard for airline performance analysis.
 
-🔗 **Repository:** [Airline Dashboard – Power BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI)
+🔗 **Repository:** [Airline Dashboard – Power BI](https://github.com/TusharBagle/Airline-Dashboard-Power-BI-)
 
 </td>
 
