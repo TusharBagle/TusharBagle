@@ -45,7 +45,7 @@ Building dashboards that turn data into business insights.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharBagle&theme=github_dark"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <br>
@@ -73,7 +73,7 @@ Interactive Power BI dashboard for airline performance analysis.
 ### 🏥 Healthcare Dashboard
 Business Intelligence dashboard for hospital and patient analytics.
 
-🔗 **Repository:** [https://github.com/TusharBagle/Healthcare-Dashboard-Power-BI](https://github.com/TusharBagle/Healthcare-Dashboard-PR.2-Power-BI-)
+🔗 **Repository:** [Healthcare Dashboard – Power BI](https://github.com/TusharBagle/Healthcare-Dashboard-PR.2-Power-BI-)
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ Business Intelligence dashboard for hospital and patient analytics.
 ### 📊 Sales Dashboard
 Sales performance analysis with KPIs and trends.
 
-🔗 **Repository:** [https://github.com/TusharBagle/Sales-Dashboard](https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-)
+🔗 **Repository:** [Sales Dashboard – Power BI](https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-)
 
 </td>
 
