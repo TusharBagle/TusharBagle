@@ -35,10 +35,30 @@ Building dashboards that turn data into business insights.
 </p>
 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TusharBagle&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
+</p>
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TusharBagle&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharBagle&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TusharBagle&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 
