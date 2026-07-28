@@ -120,15 +120,14 @@ Data cleaning, visualization, and automation using Python.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-
 <a href="https://www.kaggle.com/tusharbagle">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 
-</p>
+<a href="https://github.com/TusharBagle" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/TusharBagle/TusharBagle/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 
