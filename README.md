@@ -2,6 +2,9 @@
   <img src="https://github.com/TusharBagle/TusharBagle/blob/main/assets/banner.png" alt="Banner" width="100%"> 
 </p>
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
+
 <h1 align="center">Hi 👋, I'm Tushar Bagle</h1>
 
 <h3 align="center">
@@ -13,6 +16,9 @@ Building dashboards that turn data into business insights.
 </p>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
+
+
 ## 👨‍💻 About Me
 
 - 🎓 Passionate Data Analyst from India
@@ -21,6 +27,9 @@ Building dashboards that turn data into business insights.
 - 🌱 Currently learning Advanced Data Analytics
 - 💡 Interested in Business Intelligence & Data Visualization
 - 🎯 Goal: Build impactful dashboards that solve real business problems
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 
 ## 🛠️ Tech Stack
@@ -40,26 +49,17 @@ Building dashboards that turn data into business insights.
 </p>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TusharBagle&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharBagle&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TusharBagle&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 
 ## 📈 Contribution Activity
@@ -67,6 +67,9 @@ Building dashboards that turn data into business insights.
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 
 ## 🚀 Featured Projects
@@ -114,6 +117,9 @@ Data cleaning, visualization, and automation using Python.
 </table>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
+
+
 ## 🏆 Certifications
 
 | Certificate | Issued By | Credential |
@@ -122,6 +128,9 @@ Data cleaning, visualization, and automation using Python.
 | 🐍 Python Programming | Coursera | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Tushar_Bagle_HR_Quiz_Certificate.pdf) |
 | 🗄 SQL for Data Analysis | HackerRank | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/sql_basic%20certificate.pdf) |
 | 📈 Microsoft Excel | Udemy | 📄 [Certificate](https://github.com/TusharBagle/TusharBagle/blob/main/Certificates/Microsoft%20365%20Excel%20Essential%20Certificate.pdf) |
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 
 ## 🌐 Connect with Me
@@ -149,6 +158,9 @@ Data cleaning, visualization, and automation using Python.
 </a>
 
 </p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,20,24,30&section=footer"/>
