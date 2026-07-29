@@ -59,9 +59,6 @@ Building dashboards that turn data into business insights.
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
-
-
 ## 📈 Contribution Activity
 
 <p align="center">
