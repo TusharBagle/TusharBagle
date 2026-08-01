@@ -55,7 +55,7 @@ Building dashboards that turn data into business insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TusharBagle&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=TusharBagle&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 
