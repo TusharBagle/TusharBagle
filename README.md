@@ -47,8 +47,7 @@ Building dashboards that turn data into business insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharBagle&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=TusharBagle&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
