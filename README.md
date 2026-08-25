@@ -47,10 +47,7 @@ Building dashboards that turn data into business insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=TusharBagle&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C084FC&sideNums=58A6FF&currStreakLabel=C084FC&sideLabels=58A6FF&dates=2DD4BF"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
@@ -58,10 +55,7 @@ Building dashboards that turn data into business insights.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Contribution Activity"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Activity" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
