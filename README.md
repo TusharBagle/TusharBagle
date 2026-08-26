@@ -47,22 +47,15 @@ Building dashboards that turn data into business insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Statistics"
-  />
+  <img src="https://streak-stats.demolab.com?user=TusharBagle" alt="GitHub Streak">
 </p>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true" alt="GitHub Statistics">
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
