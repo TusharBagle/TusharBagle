@@ -47,13 +47,19 @@ Building dashboards that turn data into business insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight" />
 </p>
 
-## 📈 GitHub Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=TusharBagle&theme=tokyonight" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=github-compact" width="100%" />
 </p>
 
 ## 🚀 Featured Projects
