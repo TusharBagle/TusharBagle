@@ -47,16 +47,12 @@ Building dashboards that turn data into business insights.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TusharBagle&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=TusharBagle&hide_border=true" alt="GitHub Streak">
 </p>
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/TusharBagle">
-    View my GitHub Contributions →
-  </a>
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle)
 
 ## 🚀 Featured Projects
 
