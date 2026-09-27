@@ -1,138 +1,323 @@
-# Customer Support Quality Analysis — Student ID 10818 — Set E
+<!-- ===================== PROFILE BANNER ===================== -->
 
-**Student Name:** Tushar Bagle  
-**Student ID:** 10818  
-**Assigned Set:** Set E
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Tushar Bagle Banner">
+</p>
 
-## Business Objective
-Analyze customer-support resolution performance and identify where SLA performance needs improvement, while comparing service quality across support channels.
+<h1 align="center">Hi 👋, I'm Tushar Bagle</h1>
 
-## Business Questions
-1. Which support team should improve resolution performance?
-2. How does service quality vary by channel?
+<h3 align="center">
+  Data Analyst • Power BI Developer • SQL • Python
+</h3>
 
-## Dataset
-- `data/raw/tickets.csv` — supplied raw fact file; 13 rows including one exact duplicate.
-- `data/raw/teams.csv` — team lookup file; 4 rows.
+<p align="center">
+  <strong>Building dashboards that turn data into business insights.</strong>
+</p>
 
-### Data Dictionary
+<p align="center">
+  <a href="https://github.com/TusharBagle">
+    <img src="https://img.shields.io/badge/GitHub-TusharBagle-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-bagle-07a8913b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tushar%20Bagle-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:tusharbagle2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tusharbagle2007-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/tusharbagle">
+    <img src="https://img.shields.io/badge/Kaggle-TusharBagle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
-| Column | Type | Meaning |
-|---|---|---|
-| ticket_id | Integer | Unique support ticket identifier after duplicate removal |
-| month | Text | Ticket month |
-| team_id | Text | Support team key |
-| channel | Text | Contact channel: Email, Chat, Phone |
-| resolution_hours | Numeric | Hours taken to resolve the ticket |
-| satisfaction_score | Numeric | Customer satisfaction score |
-| team | Text | Team name from lookup |
-| department | Text | Service or Technical department |
-| Breach_Flag | Integer | 1 when resolution_hours > 24, otherwise 0 |
+---
 
-## Cleaning & Metric Definitions
-1. Loaded tickets and team lookup data.
-2. Removed the exact duplicate ticket record, reducing 13 raw rows to 12 clean rows.
-3. Merged `teams.csv` using `team_id`.
-4. Created `Breach_Flag = 1` when `resolution_hours > 24`; exactly 24 hours meets SLA.
-5. SLA breach rate = breached tickets / all clean tickets × 100.
-6. Month reporting order is Jan → Feb → Mar.
+# 👨‍💻 About Me
 
-## Tools and Versions
-- Python: 3.x
-- pandas: installed from `requirements.txt`
-- matplotlib: installed from `requirements.txt`
-- openpyxl: installed from `requirements.txt`
-- Excel: Microsoft Excel 365/compatible version
-- Power BI Desktop: current installed version at submission time
-- SQL engine: SQLite 3.x
+I'm **Tushar Bagle**, a Data Analyst from India passionate about transforming raw data into meaningful business insights.
 
-Run `python --version` and `pip show pandas matplotlib openpyxl` to record exact local versions before submission.
+🎓 **B.Tech in Computer Science & Engineering**
+🏫 **Vidhyadeep University**
+📅 **2025 – 2029**
 
-## Project Structure
+### 🔹 My Focus
+
+* 📊 Power BI Dashboard Development
+* 🗄️ SQL & Database Analysis
+* 🐍 Python for Data Analysis
+* 📈 Excel Data Analysis
+* 📉 Data Visualization
+* 🧹 Data Cleaning & Transformation
+* 📐 DAX & Data Modeling
+* 💡 Business Intelligence
+* 🚀 Advanced Data Analytics
+
+### 🎯 My Goal
+
+To build **impactful dashboards and data solutions** that solve real-world business problems and help organizations make data-driven decisions.
+
+---
+
+# 🛠️ Tech Stack
+
+### 📊 Data Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🐍 Python
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+# 📊 My Data Analytics Workflow
+
 ```text
-data-analysis-set-e-10818/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── data/
-│   └── raw/
-│       ├── tickets.csv
-│       └── teams.csv
-├── excel/
-│   └── analysis.xlsx
-├── sql/
-│   ├── setup.sql
-│   └── queries.sql
-├── python/
-│   └── analysis.py
-├── powerbi/
-│   └── dashboard.pbix
-└── outputs/
-    ├── clean_data.csv
-    ├── python_summary.csv
-    ├── python_chart.png
-    ├── powerbi_dashboard.png
-    └── sql/
-        ├── S2a_department_summary.csv
-        ├── S2b_channel_summary.csv
-        └── S2c_team_summary.csv
+                RAW DATA
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ Data Cleaning   │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ Data Transform  │
+          └────────┬────────┘
+                   │
+                   ▼
+       ┌─────────────────────────┐
+       │ Excel • SQL • Python    │
+       └────────────┬────────────┘
+                    │
+                    ▼
+          ┌─────────────────┐
+          │ Data Modeling   │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │    Power BI     │
+          │    Dashboard    │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ Business        │
+          │ Insights        │
+          └─────────────────┘
 ```
 
-## SQL Setup and Execution
-1. Open SQLite or another compatible SQL client.
-2. Run `sql/setup.sql` first.
-3. Import `data/raw/tickets.csv` into `tickets`.
-4. Run `sql/queries.sql`.
-5. Save the three result files under `outputs/sql/`.
+---
 
-## Python Setup and Run
-From the repository root:
-```bash
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-pip install -r requirements.txt
-python python/analysis.py
+# 🚀 Featured Projects
+
+## ✈️ Airline Dashboard — Power BI
+
+Interactive Power BI dashboard designed to analyze airline data and generate meaningful business insights.
+
+**Skills:** Power BI • DAX • Data Modeling • Data Visualization
+
+🔗 **Repository:**
+https://github.com/TusharBagle/Airline-Dashboard-Power-BI
+
+---
+
+## 🏥 Healthcare Dashboard — Power BI
+
+Healthcare analytics dashboard focused on KPIs, trends and performance analysis.
+
+**Skills:** Power BI • DAX • Data Modeling • Visualization
+
+🔗 **Repository:**
+https://github.com/TusharBagle/Healthcare-Dashboard-Power-BI
+
+---
+
+## 🛒 Sales Dashboard
+
+Interactive sales analytics project focused on revenue, sales trends, product performance and KPIs.
+
+**Skills:** Power BI • SQL • Excel • Data Analysis
+
+🔗 **Repository:**
+https://github.com/TusharBagle/Sales-Dashboard
+
+---
+
+## 🐍 Python Data Analysis
+
+Data analysis project involving data cleaning, exploratory analysis, visualization and automation using Python.
+
+**Skills:** Python • Pandas • Matplotlib • EDA • Data Cleaning
+
+---
+
+# 📂 Practical Data Analysis Projects
+
+I also work on complete end-to-end practical projects using:
+
+```text
+Excel
+  ↓
+SQL
+  ↓
+Python
+  ↓
+Power BI
+  ↓
+GitHub
 ```
 
-The script creates `outputs/clean_data.csv`, `outputs/python_summary.csv`, and `outputs/python_chart.png`.
+These projects help me practice the complete workflow from **raw data to business insights**.
 
-## Excel Sheet Guide
-- **Raw:** original 13-row ticket file, including duplicate.
-- **Lookup:** four team lookup records.
-- **Clean:** deduplicated and merged dataset with `Breach_Flag`.
-- **Summary:** team-level breach and resolution summary.
+---
 
-## Power BI Refresh
-Open `powerbi/dashboard.pbix` in Power BI Desktop. If the CSV path is broken after cloning:
-1. Open **Transform data → Data source settings**.
-2. Select the old CSV source.
-3. Choose **Change Source** and point to the cloned repository's `outputs/clean_data.csv` or the intended raw/clean source.
-4. Apply changes and refresh.
-5. Re-save the PBIX and replace `outputs/powerbi_dashboard.png` with the final report screenshot.
+# 🖼️ Dashboard Gallery
 
-## Findings
-- **Finding 1:** Overall SLA breach rate is **41.67%** (5 breaches out of 12 clean tickets).
-- **Finding 2:** **Chat** has a **75.00%** SLA breach rate (3 breaches out of 4 chat tickets); Phone is 50.00% and Email is 0.00%.
-- Team-level breach rate is tied at **66.67%** for BillingHelp Service and AppSupport Technical.
-- Average resolution hours are: AccountCare 12.00, BillingHelp 26.67, AppSupport 28.67, DeviceHelp 28.00.
+### 📊 Power BI Projects
 
-### Recommendation
-Review the Chat workflow and the two teams with 66.67% breach rates, focusing on tickets exceeding the 24-hour SLA. This recommendation is based on the observed breach-rate metrics and is not a claim about causes.
+| Project                 | Main Focus               |
+| ----------------------- | ------------------------ |
+| ✈️ Airline Dashboard    | Airline Analytics        |
+| 🏥 Healthcare Dashboard | Healthcare KPIs          |
+| 🛒 Sales Dashboard      | Sales & Revenue          |
+| 👥 Customer Analytics   | Customer Behavior        |
+| 🏦 Banking Analytics    | Banking & Financial Data |
 
-## Cross-Tool Reconciliation
-The aggregate **clean ticket count = 12** and **SLA breaches = 5**, giving **41.67%** overall SLA breach rate. Confirm this same result in Python, SQL, Excel, and Power BI. Percentages are rounded to two decimal places.
+---
 
-## Video
-**Video URL:** `PASTE-YOUR-WORKING-VIDEO-URL-HERE`  
-**Duration:** `PASTE-DURATION-HERE` (target 5–10 minutes)
+# 📜 Certifications
 
-## References
-No external code or resources were used beyond standard Python/pandas/matplotlib/openpyxl documentation as needed.
+### 🟡 Microsoft Power BI
 
-## Authorship
-All work in this repository is my own except where cited.
+Power BI learning and dashboard development.
 
-## Submission
-**Repository URL:** `PASTE-PUBLIC-GITHUB-URL-HERE`  
-**Final submitted commit hash:** `PASTE-FINAL-COMMIT-HASH-HERE`
+### 🐍 Python — Coursera
+
+Python learning path / certification.
+
+### 📊 Microsoft 365 Excel Essential — Udemy
+
+Excel skills including formulas, analysis and productivity features.
+
+### 🗄️ SQL — HackerRank
+
+**Coming Soon**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharBagle&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharBagle&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 📊 Tushar Bagle's Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharBagle&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharBagle/TusharBagle/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+```text
+📊 Advanced Data Analytics
+🧮 Advanced SQL
+📐 Advanced DAX
+🐍 Advanced Python
+📈 Business Intelligence
+🤖 Machine Learning
+```
+
+---
+
+# 💡 My Approach to Data
+
+> **"Data becomes valuable when it helps people make better decisions."**
+
+I focus on turning complex datasets into:
+
+**Data → Insights → Decisions → Business Impact**
+
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="assets/Tushar_Bagle_Data_Analyst_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-Download%20Resume-58A6FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/TusharBagle">
+<img src="https://img.shields.io/badge/GitHub-TusharBagle-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tushar-bagle-07a8913b2/">
+<img src="https://img.shields.io/badge/LinkedIn-Tushar%20Bagle-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:tusharbagle2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-tusharbagle2007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/tusharbagle">
+<img src="https://img.shields.io/badge/Kaggle-TusharBagle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⭐ Thanks for Visiting My Profile!
+
+<p align="center">
+
+**If you find my projects useful, consider giving them a ⭐**
+
+**Let's connect, collaborate and turn data into insights.**
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TusharBagle&label=Profile%20Views&color=58A6FF&style=flat"/>
+</p>
