@@ -85,6 +85,16 @@ To build **impactful dashboards and data solutions** that solve real-world busin
 
 ---
 
+# GitHub Activity & Streak
+
+<p align="center">
+&#x20;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharBagle&theme=tokyonight&hide_border=true" width="100%" alt="Tushar Bagle GitHub Streak"/>
+&#x20;
+</p>
+
+--- 
+
 # 📊 My Data Analytics Workflow
 
 ```text
